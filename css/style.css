@@ -10,10 +10,15 @@ body{
 
 
 
-h1{font-family: 'Raleway', sans-serif;
+h1{
+    font-family: 'Raleway', sans-serif;
 
 }
 /* .carousel-item img{
     width: 100%;
     height: 80vh;
 } */
+.card-body img{
+    width: 50%;
+    min-height: 200px;
+}
